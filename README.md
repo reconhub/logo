@@ -2,13 +2,13 @@
 ### Different versions of the logo are available
 
 #### Basic
-![basic logo](png/logo-w1200px.png)
+![basic logo](png/logo-w600px.png)
 
 #### Dark background
-![dark background logo](png/logo-darkbg-w1200px.png)
+![dark background logo](png/logo-darkbg-w600px.png)
 
 #### Square
-![square logo](png/logo-square-w1200px.png)
+![square logo](png/logo-square-w600px.png)
 
 
 
