@@ -7882,8 +7882,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.2845396"
-     inkscape:cx="433.36125"
-     inkscape:cy="876.7197"
+     inkscape:cx="397.68667"
+     inkscape:cy="859.64843"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -7904,7 +7904,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -8065,7 +8065,10 @@
        inkscape:export-xdpi="59.23"
        inkscape:export-ydpi="59.23" />
     <g
-       id="g30528">
+       id="g30528"
+       inkscape:export-filename="/home/thibaut/dev/RECON/logo/png/logo-w1200px.png"
+       inkscape:export-xdpi="369.63721"
+       inkscape:export-ydpi="369.63721">
       <path
          d="m 327.61022,163.48569 0,2.81203 -22.37123,0 0,22.87114 24.18342,0 0,2.81203 -26.99545,0 0,-46.64839 27.12043,0 0,2.81203 -24.3084,0 0,15.34116 22.37123,0 z"
          style="font-size:106.7408371px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient29926);fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
