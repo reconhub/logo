@@ -7383,8 +7383,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5711349"
-     inkscape:cx="534.09194"
-     inkscape:cy="623.93067"
+     inkscape:cx="315.15758"
+     inkscape:cy="620.42887"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -7401,7 +7401,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -30400,5 +30400,17 @@
          x="105.99554"
          y="91.416855"
          style="fill:#280b0b">Logo for dark backgrounds</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1173.1029"
+       y="197.9231"
+       id="text6808"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6810"
+         x="1173.1029"
+         y="197.9231"
+         style="-inkscape-font-specification:sawasdee;font-family:sawasdee;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">This font is Sawasdee</tspan></text>
   </g>
 </svg>
