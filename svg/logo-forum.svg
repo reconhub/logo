@@ -16,7 +16,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="logo-forum.svg">
+   sodipodi:docname="logo-forum.svg"
+   inkscape:export-filename="/home/thibaut/temp/toto.png"
+   inkscape:export-xdpi="129.65448"
+   inkscape:export-ydpi="129.65448">
   <defs
      id="defs4">
     <linearGradient
@@ -10664,6 +10667,19 @@
        y1="154.08266"
        x2="276.27667"
        y2="197.33661" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter12569"
+       x="-0.18592642"
+       width="1.3718528"
+       y="-0.49964294"
+       height="1.9992859">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="43.688239"
+         id="feGaussianBlur12571" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -10673,8 +10689,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6154134"
-     inkscape:cx="489.8004"
-     inkscape:cy="686.93066"
+     inkscape:cx="304.70846"
+     inkscape:cy="733.97744"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -10695,7 +10711,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -10797,12 +10813,23 @@
        inkscape:export-filename="/home/thibaut/dev/RECON/logo/png/new-version-2.png"
        inkscape:export-xdpi="369.63721"
        inkscape:export-ydpi="369.63721" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.77254902;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter12569)"
+       id="rect6420"
+       width="563.94232"
+       height="209.85341"
+       x="157.23529"
+       y="159.09241"
+       transform="matrix(0.88284431,0,0,0.69215112,48.050822,87.158839)"
+       inkscape:export-filename="/home/thibaut/temp/toto.png"
+       inkscape:export-xdpi="129.65448"
+       inkscape:export-ydpi="129.65448" />
     <g
        id="g4441"
-       transform="matrix(1.3201383,0,0,1.3201383,-144.51058,9.419432)"
-       inkscape:export-filename="/home/thibaut/dev/RECON/logo/png/logo-w1200px.png"
-       inkscape:export-xdpi="386.04364"
-       inkscape:export-ydpi="386.04364">
+       transform="matrix(1.0453591,0,0,1.0453591,-23.721886,64.410059)"
+       inkscape:export-filename="/home/thibaut/dev/RECON/logo/png/logo-forum-w1200.png"
+       inkscape:export-xdpi="254.42534"
+       inkscape:export-ydpi="254.42534">
       <path
          inkscape:export-ydpi="369.63721"
          inkscape:export-xdpi="369.63721"
@@ -23504,32 +23531,38 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:52.80553436px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="544.8667"
-       y="272.4393"
+       style="font-style:normal;font-weight:normal;font-size:41.81436539px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="522.16547"
+       y="272.68384"
        id="text6434"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/thibaut/dev/RECON/logo/png/logo-forum-w1200.png"
+       inkscape:export-xdpi="254.42534"
+       inkscape:export-ydpi="254.42534"><tspan
          sodipodi:role="line"
          id="tspan6436"
-         x="544.8667"
-         y="272.4393"
+         x="522.16547"
+         y="272.68384"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sawasdee;-inkscape-font-specification:sawasdee;fill:#4d4d4d">Forum</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:42.0657959px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="166.16914"
-       y="307.854"
+       style="font-style:normal;font-weight:normal;font-size:33.31003952px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="222.29163"
+       y="300.72717"
        id="text6438"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/thibaut/dev/RECON/logo/png/logo-forum-w1200.png"
+       inkscape:export-xdpi="254.42534"
+       inkscape:export-ydpi="254.42534"><tspan
          sodipodi:role="line"
-         x="166.16914"
-         y="307.854"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.80207443px;font-family:sawasdee;-inkscape-font-specification:sawasdee"
+         x="222.29163"
+         y="300.72717"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.68038559px;font-family:sawasdee;-inkscape-font-specification:sawasdee"
          id="tspan6452">Community-based discussions of the use and development </tspan><tspan
          sodipodi:role="line"
-         x="166.16914"
-         y="326.604"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.80207443px;font-family:sawasdee;-inkscape-font-specification:sawasdee"
+         x="222.29163"
+         y="325.47977"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.68038559px;font-family:sawasdee;-inkscape-font-specification:sawasdee"
          id="tspan6458">of R packages for epidemics analysis and outbreak response</tspan></text>
   </g>
 </svg>
