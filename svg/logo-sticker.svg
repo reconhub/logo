@@ -8707,14 +8707,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6154134"
-     inkscape:cx="762.80816"
-     inkscape:cy="254.7103"
+     inkscape:zoom="0.8077067"
+     inkscape:cx="402.3676"
+     inkscape:cy="232.75417"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="3840"
-     inkscape:window-height="2062"
+     inkscape:window-width="1920"
+     inkscape:window-height="1125"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -8830,7 +8830,7 @@
        id="text4136-3-9-9-5-8-5-0-4-3-1" />
     <g
        id="g10474"
-       transform="matrix(1.8485941,0,0,1.8485941,-271.9272,-407.43459)"
+       transform="matrix(1.8485941,0,0,1.8485941,-271.9272,-409.43459)"
        inkscape:export-filename="/home/thibaut/dev/recon/logo/png/logo-sticker.png"
        inkscape:export-xdpi="350.47156"
        inkscape:export-ydpi="350.47156">
@@ -15165,5 +15165,23 @@
            inkscape:export-ydpi="369.63721" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.0268631px;line-height:125%;font-family:sawasdee;-inkscape-font-specification:sawasdee;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="99.572029"
+       y="798.81628"
+       id="text5702"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/thibaut/dev/recon/logo/png/logo-sticker.png"
+       inkscape:export-xdpi="350.47156"
+       inkscape:export-ydpi="350.47156"><tspan
+         sodipodi:role="line"
+         id="tspan5704"
+         x="99.572029"
+         y="798.81628">The <tspan
+   style="font-weight:bold"
+   id="tspan5706">R E</tspan>pidemics <tspan
+   style="font-weight:bold"
+   id="tspan5710">Con</tspan>sortium</tspan></text>
   </g>
 </svg>
