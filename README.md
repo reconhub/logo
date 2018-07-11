@@ -7,6 +7,10 @@
 #### Square
 ![square logo](png/logo-square-w600px.png)
 
+#### Sticker
+![hex logo](png/logo-sticker.png)
+
+
 
 
 
