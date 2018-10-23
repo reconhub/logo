@@ -2,10 +2,14 @@
 ### Different versions of the logo are available
 
 #### Basic
-![basic logo](png/logo-w600px.png)
+<img src="png/logo-w600px.png" width="500px" alt="basic logo">
 
 #### Square
-![square logo](png/logo-square-w600px.png)
+<img src="png/logo-square-w600px.png" width="500px" alt="square logo">
+
+#### Sticker
+<img src="png/logo-sticker.png" width="500px" alt="sticker logo">
+
 
 
 
