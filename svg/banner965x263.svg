@@ -11,11 +11,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="965mm"
-   height="263mm"
-   viewBox="0 0 965 263"
+   height="290mm"
+   viewBox="0 0 965 290"
    version="1.1"
    id="svg3102"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="banner965x263.svg">
   <defs
      id="defs3096">
@@ -2106,11 +2106,11 @@
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="755"
-     inkscape:window-x="64"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1869"
+     inkscape:window-height="1021"
+     inkscape:window-x="1651"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata3099">
     <rdf:RDF>
@@ -2127,10 +2127,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-34)">
+     transform="translate(0,-7)">
     <g
        id="g4441"
-       transform="matrix(3.2170305,0,0,3.2170305,-713.79653,-366.02566)"
+       transform="matrix(3.2170305,0,0,3.2170305,-713.79653,-378.72568)"
        inkscape:export-filename="/home/thibaut/dev/RECON/logo/png/logo-w1200px.png"
        inkscape:export-xdpi="386.04364"
        inkscape:export-ydpi="386.04364">
