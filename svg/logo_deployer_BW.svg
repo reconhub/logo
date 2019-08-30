@@ -15,8 +15,11 @@
    viewBox="0 0 26 10"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="logo_deployer_BW.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo_deployer_BW.svg"
+   inkscape:export-filename="/home/thibaut/dev/recon/logo/svg/logo_deployer_BW.png"
+   inkscape:export-xdpi="4430.769"
+   inkscape:export-ydpi="4430.769">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,13 +28,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="36.552633"
-     inkscape:cx="10.808146"
-     inkscape:cy="1.4857669"
+     inkscape:cx="11.485574"
+     inkscape:cy="1.3763357"
      inkscape:document-units="px"
      inkscape:current-layer="text4136-3-3"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1125"
+     inkscape:window-width="2560"
+     inkscape:window-height="1367"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -12729,20 +12732,19 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <text
-       sodipodi:linespacing="125%"
        id="text4136"
        y="258.86765"
        x="266.20654"
-       style="font-size:69.8030014px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Sawasdee;-inkscape-font-specification:Sawasdee;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed, '"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.8030014px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '"
          y="258.86765"
          x="266.20654"
          id="tspan4138"
-         sodipodi:role="line" /></text>
+         sodipodi:role="line"> </tspan></text>
     <flowRoot
        transform="matrix(0.65394844,0,0,0.65394844,125.96052,15.865526)"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4140"
        xml:space="preserve"><flowRegion
          id="flowRegion4142"><rect
@@ -12751,9 +12753,10 @@
            height="94.093559"
            width="352.85086"
            id="rect4144" /></flowRegion><flowPara
-         id="flowPara4146" /></flowRoot>    <flowRoot
+         id="flowPara4146"
+         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>    <flowRoot
        transform="matrix(0.65394844,0,0,0.65394844,125.96052,15.865526)"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4148"
        xml:space="preserve"><flowRegion
          id="flowRegion4150"><rect
@@ -12762,9 +12765,10 @@
            height="61.90366"
            width="347.89856"
            id="rect4152" /></flowRegion><flowPara
-         id="flowPara4154" /></flowRoot>    <flowRoot
+         id="flowPara4154"
+         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>    <flowRoot
        transform="matrix(0.65394844,0,0,0.65394844,125.96052,15.865526)"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4156"
        xml:space="preserve"><flowRegion
          id="flowRegion4158"><rect
@@ -12773,9 +12777,10 @@
            height="126.28346"
            width="283.51877"
            id="rect4160" /></flowRegion><flowPara
-         id="flowPara4162" /></flowRoot>    <flowRoot
+         id="flowPara4162"
+         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>    <flowRoot
        transform="matrix(0.65394844,0,0,0.65394844,125.96052,15.865526)"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4164"
        xml:space="preserve"><flowRegion
          id="flowRegion4166"><rect
@@ -12784,17 +12789,18 @@
            height="112.66466"
            width="300.85178"
            id="rect4168" /></flowRegion><flowPara
-         id="flowPara4170" /></flowRoot>    <text
-       sodipodi:linespacing="125%"
+         id="flowPara4170"
+         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>    <text
        id="text4210"
        y="201.40193"
        x="362.97516"
-       style="font-size:26.157938px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="201.40193"
          x="362.97516"
          id="tspan4212"
-         sodipodi:role="line" /></text>
+         sodipodi:role="line"
+         style="font-size:26.157938px;line-height:1.25"> </tspan></text>
     <g
        id="text4136-3-9-9-5-8-5-0-4-3-1"
        style="font-size:144.58197021px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient24145);fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
@@ -15751,16 +15757,15 @@
        style="font-size:2.33530974px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.58724928px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:Sawasdee;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sawasdee;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="5.6906323"
          y="1051.6653"
-         id="text5648"
-         sodipodi:linespacing="125%"><tspan
+         id="text5648"><tspan
            sodipodi:role="line"
            id="tspan5650"
            x="5.6906323"
            y="1051.6653"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sawasdee;-inkscape-font-specification:Sawasdee">Deployer  03.18</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.58724904px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:Sawasdee">Deployer  09.19</tspan></text>
     </g>
   </g>
 </svg>
